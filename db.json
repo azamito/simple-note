@@ -1,0 +1,34 @@
+{
+  "product": [
+    {
+      "title": "Roti",
+      "price": "4000",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "title": "Product 2",
+      "price": 20202
+    },
+    {
+      "id": 3,
+      "title": "Product 3",
+      "price": 30303
+    },
+    {
+      "title": "Sabun",
+      "price": "25000",
+      "id": 9
+    },
+    {
+      "title": "Susu",
+      "price": "3000",
+      "id": 10
+    },
+    {
+      "title": "Bakso",
+      "price": "8000",
+      "id": 11
+    }
+  ]
+}
